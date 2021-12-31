@@ -1,3 +1,6 @@
+
+
+
 body {
     background-image: url(https://cdn.pixabay.com/photo/2019/01/22/10/58/pixel-cells-3947911_960_720.png);
     background-size: cover;
@@ -33,3 +36,10 @@ img {
     font-size: 22px;
     font-style: italic;
 }
+
+h1 > p {color: black;}
+
+.container > div {
+    flex: 1 0 auto;
+}
+
