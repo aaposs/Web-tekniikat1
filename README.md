@@ -1,2 +1,2 @@
 # Webtekniikat
-Bootstrap tehtävä
+Bootstrap tehtävä sekä CSS tehtävä
